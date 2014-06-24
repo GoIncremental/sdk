@@ -1,0 +1,8 @@
+{
+	"ImportPath": "github.com/goincremental/sdk",
+	"GoVersion": "go1.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
